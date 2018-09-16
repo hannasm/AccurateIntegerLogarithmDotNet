@@ -1,0 +1,7 @@
+    <authors>hannasm</authors>
+    <owners>hannasm</owners>
+	<licenseUrl>https://github.com/hannasm/AccurateIntegerLogarithmDotnet/blob/master/LICENSE</licenseUrl>
+    <projectUrl>https://github.com/hannasm/AccurateIntegerLogarithmDotnet</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Implement of Math.Log() that operates on integers only, and is accurate for any integer input</description>
+    <copyright>Copyright 2018</copyright>

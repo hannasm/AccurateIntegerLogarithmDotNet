@@ -1,0 +1,27 @@
+﻿<?xml version="1.0"?>
+<package >
+<metadata>
+<id>AccurateIntegerLogarithm</id>
+<authors>hannasm</authors>
+<owners>hannasm</owners>
+<licenseUrl>https://github.com/hannasm/AccurateIntegerLogarithmDotnet/blob/master/LICENSE</licenseUrl>
+<projectUrl>https://github.com/hannasm/AccurateIntegerLogarithmDotnet</projectUrl>
+<requireLicenseAcceptance>false</requireLicenseAcceptance>
+<description>Implement of Math.Log() that operates on integers only, and is accurate for any integer input</description>
+<copyright>Copyright 2018</copyright>
+<version>
+1.0.0
+</version>
+<releaseNotes>
+* 1.0.0 - Initial Release
+</releaseNotes>
+</metadata>
+<files>
+<file src="../readme.md" target="content/README_AccurateIntegerLogarithm.md" />
+<file src="../LICENSE.md" target="content/LICENSE_AccurateIntegerLogarithm.md" />
+<file src="bin/Release/netstandard2.0/*.dll" target="lib/netstandard2.0" />
+<file src="bin/Release/netstandard2.0/*.pdb" target="lib/netstandard2.0" />
+<file src="bin/Release/netstandard2.0/*.xml" target="lib/netstandard2.0" />
+</files>
+</package>
+<!-- vim: set expandtab ts=2 sw=2:  -->
